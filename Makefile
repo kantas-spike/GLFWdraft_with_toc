@@ -1,7 +1,8 @@
 BUILD_DIR := ./build
 OUTLINE_TOOL_DIR := $(BUILD_DIR)/pdfoutline
 # TOC_FILE := ./toc.txt
-TOC_FILE := ./toc_detail.txt
+# TOC_FILE := ./toc_detail.txt
+TOC_FILE := ./toc_detail_with_step.txt
 OUTPUT_PDF := ./GLFWdraft_with_toc.pdf
 INPUT_PDF := ./GLFWdraft.pdf
 
